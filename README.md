@@ -31,3 +31,14 @@ Reach out to [Katarina Hoeger](mailto:katarina@katarinahoeger.com) to get involv
 ### Jianpu notation
 - [How to Read Jianpu Notation](https://www.easonmusicschool.com/jianpu-101-how-to-read-numeric-scores/)
 ### Lilypond
+- [Lilypond](http://lilypond.org/) General music notation software that I can use to generate music
+- [Jianpu in Lilypond](http://ssb22.user.srcf.net/mwrhome/jianpu-ly.html)  python program by silas s brown that can be used for music notation in jianpu, uses lilypond to typeset
+
+## Progress Log
+### 10/17
+#### Done
+- laid out bones of project
+- found notation software
+- lilypond is working
+#### To Do Next
+- try jianpu in lilypond
