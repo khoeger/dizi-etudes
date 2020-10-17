@@ -29,5 +29,5 @@ Reach out to [Katarina Hoeger](mailto:katarina@katarinahoeger.com) to get involv
 ### Readings
 
 ### Jianpu notation
-
+- [How to Read Jianpu Notation](https://www.easonmusicschool.com/jianpu-101-how-to-read-numeric-scores/)
 ### Lilypond
