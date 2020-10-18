@@ -42,3 +42,8 @@ Reach out to [Katarina Hoeger](mailto:katarina@katarinahoeger.com) to get involv
 - lilypond is working
 #### To Do Next
 - try jianpu in lilypond
+- Investigate resources I've been told about
+  - [Aiva](https://aiva.ai/)
+  - [Pentatonic Scale Use](https://en.wikipedia.org/wiki/Pentatonic_scale)
+  - A set of chinese music in a private shared repo
+  
